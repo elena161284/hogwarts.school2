@@ -38,3 +38,4 @@ public class FacultyController {
         return facultyService.filterByNameOrColor(color, name);
     }
 }
+

@@ -71,4 +71,5 @@ public class Faculty {
                 ", color='" + color + '\'' +
                 '}';
     }
+
 }
